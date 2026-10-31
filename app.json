@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Cidadania em Jogo",
+    "slug": "cidadania-em-jogo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F5F1E8",
+    "web": {
+      "bundler": "metro"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#285847"
+      }
+    }
+  }
+}
